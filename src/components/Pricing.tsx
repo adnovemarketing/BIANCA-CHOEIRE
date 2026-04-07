@@ -12,8 +12,8 @@ export function Pricing() {
           </div>
           <div className="mb-8">
             <p className="text-slate-400 text-sm mb-2">Por apenas</p>
-            <h3 className="text-6xl font-black font-headline text-white tracking-tighter">R$ 1.497</h3>
-            <p className="text-primary font-bold mt-2 text-xl">à vista ou em até 12x</p>
+            <h3 className="text-5xl md:text-6xl font-black font-headline text-white tracking-tighter">12x de R$ 124,75</h3>
+            <p className="text-primary font-bold mt-2 text-xl">ou R$ 1.497 no pix</p>
           </div>
           <div className="flex flex-col gap-6 mb-12 max-w-sm mx-auto text-left">
             <div className="flex items-center gap-3">
